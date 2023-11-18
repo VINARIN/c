@@ -1,3 +1,4 @@
+
 #include <stdio.h> 
 int globalNum;
 int main () {
